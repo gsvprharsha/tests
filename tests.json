@@ -30,7 +30,9 @@
           },
           {
             "img2": "/images/articles/single-post/dont-close-your-eyes.jpg",
-            "section1": "\n\n\nPython code:\n\nprint('Hello, World!')"
+            "section1": "\n\n\nPython code:
+            
+            \n\nprint('Hello, World!')"
           },
           {
             "quote": [
