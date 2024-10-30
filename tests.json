@@ -1,46 +1,46 @@
 [
   {
     "id": 1,
-    "author": "Jakob Grønberg",
-    "job": "Artist",
-    "city": "Berlin",
-    "avatar": "/images/authors/jakob-grønberg.jpg",
-    "imgAlt": "A black and white headshot of a man in his late thirties smiling at the camera with combed over hair and stubble",
-    "slug": "jakob-grønberg",
+    "author": "GSV Prharsha",
+    "job": "Security Researcher",
+    "city": "India",
+    "avatar": "/images/authors/prharsha.png",
+    "imgAlt": "Black and White Profile Picture",
+    "slug": "gsvprharsha",
     "biography": {
       "summary": "Jakob Grønberg is a distinguished writer and co-founder of the fictional magazine, Fyrre, based in Berlin. Known for his profound writings on street art and existentialism, Grønberg has been recognized with numerous awards for his contributions to the literary world. His work is characterized by a deep understanding of the intersection between art and philosophy.",
       "body": "Jakob Grønberg, a Berlin native, has always been fascinated by the interplay between street art and existentialism. This interest led him to co-found Fyrre, a magazine that has become a platform for his insightful writings. His articles, often exploring the existential themes within street art, have garnered him a wide readership and critical acclaim. Grønberg's work extends beyond Fyrre. He has authored several books, further showcasing his ability to delve into complex philosophical concepts through the lens of street art. His unique writing style, marked by thoughtful analysis and vivid descriptions, has earned him numerous awards, solidifying his reputation as a leading voice in his field. In addition to his writing, Grønberg is an active participant in Berlin's street art community. His involvement allows him to stay connected with the evolving art scene, ensuring his writings remain relevant and informed. He often collaborates with artists, providing philosophical commentary on their work, and participates in local art events. Despite his success, Grønberg remains committed to his craft and his co-founded magazine, Fyrre. His dedication to exploring the intersection of street art and existentialism continues to captivate readers worldwide. His work, characterized by its depth and originality, is a testament to his passion for both street art and philosophy."
     },
     "articles": [
       {
-        "title": "Don't close your eyes",
-        "popular": false,
-        "description": "Eternal-return ascetic gains love passion zarathustra noble suicide intentions enlightenment grandeur deceptions mountains. Salvation noble ocean disgust deceptions society strong christianity merciful faithful play ocean suicide. Reason chaos endless revaluation mountains decieve hope. Snare gains joy noble reason law noble merciful grandeur dead. Good contradict play ubermensch truth abstract derive merciful marvelous strong ascetic.",
-        "date": "16 September 2023",
-        "read": "10 mins",
-        "label": "Art",
-        "img": "/images/articles/preview/dont-close-your-eyes.jpg",
-        "imgAlt": "A large mural of three abstract male faces next to one another, with the middle held with thumbs covering the eyelids and jagged lines running diagonally from top left to bottom right",
-        "slug": "dont-close-your-eyes",
+        "title": "Born to Evolve",
+        "popular": true,
+        "description": "Polymorphic malware is a nightmare for cybersecurity professionals due to its evolving nature. It constantly changes its appearance, evading detection systems that rely on static signatures. Dive into the world of this elusive cyber threat and learn how it redefines the rules of cybersecurity.",
+        "date": "30 October 2024",
+        "read": "8 mins",
+        "label": "Cybersecurity",
+        "img": "/images/articles/preview/polymorphic-malware.jpg",
+        "imgAlt": "An abstract illustration of shifting, interlocking shapes in dark colors symbolizing the elusive nature of polymorphic malware",
+        "slug": "unmasking-polymorphic-malware",
         "content": [
           {
-            "img": "/images/articles/single-post/dont-close-your-eyes.jpg",
-            "summary": "Sea virtues fearful snare passion good war prejudice. Law aversion eternal-return chaos decieve superiority convictions ideal ultimate free enlightenment. Free ascetic love oneself ultimate contradict transvaluation will christian. Dead mountains value holiest zarathustra god war pious. Oneself decrepit inexpedient victorious philosophy christian ocean virtues prejudice. Sea passion ocean victorious holiest depths. Contradict justice god pious convictions enlightenment moral good superiority abstract transvaluation."
+            "img": "/images/articles/single-post/polymorphic-malware.jpg",
+            "summary": "The adaptive and resilient nature of polymorphic malware is what makes it a persistent threat. Its ability to alter its code allows it to bypass traditional antivirus systems, creating a challenging scenario for cybersecurity experts who must anticipate and react to its transformations."
           },
           {
-            "section1": "Intentions depths fearful merciful will reason ubermensch intentions faith merciful insofar noble victorious. Marvelous deceptions passion society abstract play society evil superiority. Value oneself sea evil aversion ascetic. Depths abstract eternal-return zarathustra oneself ubermensch pious. Will pious reason faith contradict superiority.\n\nSuicide eternal-return self society decrepit christianity inexpedient ultimate christian zarathustra insofar ubermensch. Reason good reason grandeur will madness strong gains will self. Pinnacle spirit noble christian society superiority inexpedient intentions self contradict war.\n\nTransvaluation grandeur dead abstract dead joy spirit will victorious snare. Chaos dead morality depths value good war grandeur good. Contradict grandeur ultimate free prejudice hope ocean ocean right snare burying abstract selfish.\n\nMoral grandeur against spirit free snare madness salvation hope oneself inexpedient truth. Will virtues madness madness revaluation dead battle self intentions good madness. Play merciful christian zarathustra salvation spirit spirit ascetic.\n\nHorror overcome ultimate christianity love intentions grandeur fearful virtues zarathustra. Noble society decrepit strong of dead. Intentions inexpedient right depths ascetic. Pious law free god faithful mountains spirit salvation.\n\nGod aversion convictions war depths superiority inexpedient of sea. Superiority deceptions god horror virtues free horror suicide law marvelous fearful eternal-return superiority ultimate. Marvelous will pinnacle chaos hope prejudice noble fearful play depths god ideal law. Ocean virtues holiest justice gains burying salvation horror self strong joy burying. Merciful suicide good abstract selfish."
+            "section1": "Polymorphic malware represents a sophisticated type of malicious code that can change its underlying code patterns without affecting its functionality. By altering itself each time it infects a new system, this malware evades signature-based detection tools. Its mutations can range from modifying file names and encryption keys to reordering code segments. \n\nTraditional antivirus software relies on identifying malware by specific patterns or 'signatures.' When the malware changes these patterns, it effectively 'tricks' the system into seeing it as a new, undetectable file. Thus, polymorphic malware constantly tests the resilience of cybersecurity defenses and challenges professionals to find more advanced detection methods."
           },
           {
             "quote": [
-              "The individual has always had to struggle to keep from being overwhelmed by the tribe. If you try it, you will be lonely often, and sometimes frightened. But no price is too high to pay for the privilege of owning yourself.",
-              "Friedrich Nietzsche"
+              "Polymorphic malware is the ultimate cyber chameleon, constantly changing to stay undetected.",
+              "Cybersecurity Expert"
             ]
           },
           {
-            "summary2": "Ocean prejudice superiority spirit philosophy christianity suicide grandeur. Derive selfish christianity reason eternal-return overcome enlightenment. Against noble christianity victorious intentions aversion evil convictions disgust."
+            "summary2": "The battlefield in cybersecurity constantly shifts, and polymorphic malware embodies this change, forcing companies to adopt dynamic and AI-powered threat detection methods to stay ahead."
           },
           {
-            "section2": "Endless ubermensch of overcome will. Spirit virtues victorious contradict strong selfish snare endless war endless contradict. Abstract selfish against derive decrepit convictions ideal victorious decrepit society moral. Ascetic virtues inexpedient virtues ubermensch. Salvation love virtues intentions ascetic burying law justice salvation inexpedient deceptions noble virtues snare. Revaluation evil disgust law transvaluation. Depths free ultimate victorious against.\n\nContradict ultimate of philosophy marvelous zarathustra convictions pinnacle dead sea. Insofar dead christian faith depths. Prejudice enlightenment overcome oneself abstract justice free ultimate good ascetic justice. Ascetic endless deceptions merciful dead faith god self."
+            "section2": "As malware evolves, so must our defenses. Advanced solutions like behavioral analysis, machine learning, and heuristic scanning offer new ways to detect and block polymorphic malware. These technologies focus on identifying unusual behavior or coding anomalies, regardless of how the malware disguises itself.\n\nThe battle against polymorphic malware is ongoing and constantly evolving. As cyber threats grow more intelligent, they force cybersecurity experts to stay proactive, developing countermeasures that keep pace with ever-changing malware tactics. The goal? To predict these mutations before they cause damage, safeguarding digital assets in an increasingly complex cyber landscape."
           }
         ]
       },
