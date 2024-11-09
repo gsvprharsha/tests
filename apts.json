@@ -23,5 +23,53 @@
       "origin": "Nation-State",
       "threat_level": "Critical"
     }
+  },
+  "ransomware": {
+    "APT101": {
+      "name": "APT101",
+      "description": "A ransomware group targeting critical infrastructure and demanding high ransoms.",
+      "discovered": "2023-02-15",
+      "origin": "Cybercrime",
+      "threat_level": "High"
+    },
+    "APT102": {
+      "name": "APT102",
+      "description": "A ransomware variant responsible for multiple high-profile attacks on hospitals.",
+      "discovered": "2022-10-01",
+      "origin": "Cybercrime",
+      "threat_level": "Medium"
+    }
+  },
+  "cyber-espionage": {
+    "APT202": {
+      "name": "APT202",
+      "description": "A state-sponsored group specializing in cyber-espionage against multinational corporations.",
+      "discovered": "2019-08-19",
+      "origin": "Nation-State",
+      "threat_level": "Critical"
+    },
+    "APT203": {
+      "name": "APT203",
+      "description": "A cyber-espionage group involved in stealing sensitive information from defense contractors.",
+      "discovered": "2018-11-12",
+      "origin": "Nation-State",
+      "threat_level": "High"
+    }
+  },
+  "hacktivism": {
+    "APT303": {
+      "name": "APT303",
+      "description": "A group of politically motivated hackers focused on disrupting government operations.",
+      "discovered": "2017-05-01",
+      "origin": "Hacktivism",
+      "threat_level": "Medium"
+    },
+    "APT304": {
+      "name": "APT304",
+      "description": "A hacktivist group responsible for defacing government websites and stealing sensitive data.",
+      "discovered": "2016-07-08",
+      "origin": "Hacktivism",
+      "threat_level": "Low"
+    }
   }
 }
