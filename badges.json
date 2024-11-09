@@ -1,17 +1,14 @@
 [
   {
     "title": "Generate a sticky header ttest",
-    "link": "https://google.com",
-    "label": "default"
+    "link": "https://google.com"
   },
   {
     "title": "How can I schedule cron jobs?",
-    "link": "https://example.com",
-    "label": "destructive"
+    "link": "https://example.com"
   },
   {
     "title": "A function to flatten nested arrays",
-    "link": "https://anotherlink.com",
-    "label": "default"
+    "link": "https://anotherlink.com"
   }
 ]
