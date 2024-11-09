@@ -1,0 +1,27 @@
+{
+  "malware": {
+    "APT123": {
+      "name": "APT123",
+      "description": "A sophisticated nation-state malware targeting financial institutions.",
+      "discovered": "2022-03-10",
+      "origin": "Nation-State",
+      "threat_level": "High"
+    },
+    "APT456": {
+      "name": "APT456",
+      "description": "A ransomware group known for targeting hospitals.",
+      "discovered": "2021-07-22",
+      "origin": "Cybercrime",
+      "threat_level": "Medium"
+    }
+  },
+  "nation-state": {
+    "APT789": {
+      "name": "APT789",
+      "description": "A cyber-espionage group known for attacks on government networks.",
+      "discovered": "2020-05-30",
+      "origin": "Nation-State",
+      "threat_level": "Critical"
+    }
+  }
+}
