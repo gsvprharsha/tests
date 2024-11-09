@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Generate a sticky header",
+    "link": "https://google.com",
+    "label": "default"
+  },
+  {
+    "title": "How can I schedule cron jobs?",
+    "link": "https://example.com",
+    "label": "destructive"
+  },
+  {
+    "title": "A function to flatten nested arrays",
+    "link": "https://anotherlink.com",
+    "label": "default"
+  }
+]
