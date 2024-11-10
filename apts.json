@@ -1,75 +1,39 @@
 {
   "malware": {
-    "APT123": {
-      "name": "APT123",
-      "description": "A sophisticated nation-state malware targeting financial institutions.",
-      "discovered": "2022-03-10",
-      "origin": "Nation-State",
-      "threat_level": "High"
+    "Malware1": {
+      "name": "Malware 1",
+      "description": "Basic malware example.",
+      "discovered": "2023-01-01",
+      "origin": "Unknown",
+      "threat_level": "Low",
+      "content": [
+        { "type": "text", "data": "This malware is basic and has minimal impact." }
+      ]
     },
-    "APT456": {
-      "name": "APT456",
-      "description": "A ransomware group known for targeting hospitals.",
-      "discovered": "2021-07-22",
+    "Malware2": {
+      "name": "Malware 2",
+      "description": "Advanced malware with additional information.",
+      "discovered": "2022-12-12",
       "origin": "Cybercrime",
-      "threat_level": "Medium"
-    }
-  },
-  "nation-state": {
-    "APT789": {
-      "name": "APT789",
-      "description": "A cyber-espionage group known for attacks on government networks.",
-      "discovered": "2020-05-30",
-      "origin": "Nation-State",
-      "threat_level": "Critical"
-    }
-  },
-  "ransomware": {
-    "APT101": {
-      "name": "APT101",
-      "description": "A ransomware group targeting critical infrastructure and demanding high ransoms.",
-      "discovered": "2023-02-15",
-      "origin": "Cybercrime",
-      "threat_level": "High"
+      "threat_level": "High",
+      "content": [
+        { "type": "text", "data": "This malware is known for advanced techniques." },
+        { "type": "image", "data": "url/to/image.jpg" },
+        { "type": "table", "data": [["Header1", "Header2"], ["Row1Col1", "Row1Col2"]] }
+      ]
     },
-    "APT102": {
-      "name": "APT102",
-      "description": "A ransomware variant responsible for multiple high-profile attacks on hospitals.",
-      "discovered": "2022-10-01",
-      "origin": "Cybercrime",
-      "threat_level": "Medium"
-    }
-  },
-  "cyber-espionage": {
-    "APT202": {
-      "name": "APT202",
-      "description": "A state-sponsored group specializing in cyber-espionage against multinational corporations.",
-      "discovered": "2019-08-19",
+    "Malware3": {
+      "name": "Malware 3",
+      "description": "High-level malware with additional right-column details.",
+      "discovered": "2021-10-10",
       "origin": "Nation-State",
-      "threat_level": "Critical"
-    },
-    "APT203": {
-      "name": "APT203",
-      "description": "A cyber-espionage group involved in stealing sensitive information from defense contractors.",
-      "discovered": "2018-11-12",
-      "origin": "Nation-State",
-      "threat_level": "High"
-    }
-  },
-  "hacktivism": {
-    "APT303": {
-      "name": "APT303",
-      "description": "A group of politically motivated hackers focused on disrupting government operations.",
-      "discovered": "2017-05-01",
-      "origin": "Hacktivism",
-      "threat_level": "Medium"
-    },
-    "APT304": {
-      "name": "APT304",
-      "description": "A hacktivist group responsible for defacing government websites and stealing sensitive data.",
-      "discovered": "2016-07-08",
-      "origin": "Hacktivism",
-      "threat_level": "Low"
+      "threat_level": "Critical",
+      "content": [
+        { "type": "text", "data": "This malware is highly dangerous." }
+      ],
+      "rightColumnData": {
+        "details": "This data is specifically for display in the right column card."
+      }
     }
   }
 }
